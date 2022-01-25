@@ -5,3 +5,5 @@
 ## These codes are very important since these will help you clear your basic concepts in various languages.
 
 ## [Getting Started](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started)
+
+## [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
