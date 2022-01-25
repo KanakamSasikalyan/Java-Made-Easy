@@ -4,7 +4,7 @@
 
 ## These codes are very important since these will help you clear your basic concepts in various languages.
 
-## ✔ [Getting Started](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started)
+## 🤔 [Getting Started](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started)
 
 #### [Armstrong](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Armstrong.java)
 #### [Automorphic](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Automorphic.java)
@@ -23,4 +23,4 @@
 #### [Sum of N Natural Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Sum_of_N.java)
 #### [Sum of Digits in Number](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Sum_of_Digits.java)
 
-## ✔ [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
+## 👨‍💻 [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
