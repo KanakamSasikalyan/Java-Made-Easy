@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/67740644/154731925-46ca8fbb-0fe5-4cc3-89a9-4f909baa588b.png)
 # ✔ Top 100 Codes
 
 #### You will find some of the most important codes in language Java. These codes are of prime importance for college semester exams and also for various online tests and interviews of the companies offering placements within varying range in LPA.</br>
@@ -25,7 +26,7 @@
 #### [Sum of Digits in Number](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Sum_of_Digits.java)
 
 ## ✔ [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
-
+![image](https://user-images.githubusercontent.com/67740644/154731832-9321b26e-0248-4c44-8412-0edd35a255b8.png)
 
 ## ✔ [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
 #### [Length of the string without using len function](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string1.java)
@@ -38,3 +39,4 @@
 #### [Remove spaces from a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string8.java)
 
 ## ✔ [InfyTQ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/InfyTQ)
+![image](https://user-images.githubusercontent.com/67740644/154731874-c583c9cd-5ba6-4c03-a03b-1512adf60920.png)
