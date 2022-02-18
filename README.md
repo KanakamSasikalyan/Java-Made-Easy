@@ -5,7 +5,7 @@
 
 ## ⚙ [Terminal](https://www.online-java.com/) (Online Java - IDE,Code Editor, Compiler)
 
-##  [Getting Started](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started)
+## ✔ [Getting Started](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started)
 
 #### [Armstrong](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Armstrong.java)
 #### [Automorphic](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Automorphic.java)
@@ -24,10 +24,10 @@
 #### [Sum of N Natural Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Sum_of_N.java)
 #### [Sum of Digits in Number](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Getting%20Started/Sum_of_Digits.java)
 
-##  [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
+## ✔ [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
 
 
-## 🎯 [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
+## ✔ [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
 #### [Length of the string without using len function](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string1.java)
 #### [Toggle each character in a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string2.java)
 #### [Count the number of vowels ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string3.java)
@@ -37,4 +37,4 @@
 #### [Remove all characters from string except alphabets](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string7.java)
 #### [Remove spaces from a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string8.java)
 
-## [InfyTQ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/InfyTQ)
+## ✔ [InfyTQ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/InfyTQ)
