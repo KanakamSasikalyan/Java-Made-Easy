@@ -26,4 +26,6 @@
 
 ## 👨‍💻 [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
 
+
+## [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
 ## [InfyTQ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/InfyTQ)
