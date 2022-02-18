@@ -27,7 +27,7 @@
 ##  [Working With Numbers](https://github.com/KanakamSasikalyan/top-100-codes/tree/main/Working%20with%20Numbers)
 
 
-## ⛳ [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
+## 🎯 [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
 #### [Length of the string without using len function](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string1.java)
 #### [Toggle each character in a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string2.java)
 #### [Count the number of vowels ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string3.java)
