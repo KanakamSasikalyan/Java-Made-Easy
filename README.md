@@ -28,13 +28,13 @@
 
 
 ## [Strings](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings)
-### [-](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string1.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string2.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string3.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string4.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string5.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string6.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string7.java)
-### [](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string8.java)
+### [Length of the string without using len function](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string1.java)
+### [Toggle each character in a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string2.java)
+### [Count the number of vowels ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string3.java)
+### [Remove the vowels from a String](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string4.java)
+### [Check if the given string is Palindrome or not](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string5.java)
+### [Print the given string in reverse order](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string6.java)
+### [Remove all characters from string except alphabets](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string7.java)
+### [Remove spaces from a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string8.java)
 
 ## [InfyTQ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/InfyTQ)
