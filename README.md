@@ -37,6 +37,3 @@
 #### [Print the given string in reverse order](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string6.java)
 #### [Remove all characters from string except alphabets](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string7.java)
 #### [Remove spaces from a string](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/Strings/string8.java)
-
-## ✔ [InfyTQ](https://github.com/KanakamSasikalyan/top-100-codes/blob/main/InfyTQ)
-![image](https://user-images.githubusercontent.com/67740644/154731874-c583c9cd-5ba6-4c03-a03b-1512adf60920.png)
